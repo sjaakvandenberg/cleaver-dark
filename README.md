@@ -2,6 +2,8 @@
 
 ![Cleaver Dark](cleaver-dark.png)
 
+*Preview at http://svdb.co/cleaver-dark/*
+
 **Cleaver** *Dark* builds on [Cleaver Retro](http://github.com/jdan/cleaver-retro), uses ***Open Sans*** for the body text, Merriweather for the headings and Adobe's Source Code Pro for `code`.
 
 &mdash; [@svdb](https://www.twitter.com/svdb)
