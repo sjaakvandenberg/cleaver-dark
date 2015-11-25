@@ -4,7 +4,7 @@
 
 *Preview at http://svdb.co/cleaver-dark/*
 
-**Cleaver** *Dark* builds on [Cleaver Retro](http://github.com/jdan/cleaver-retro), uses ***Open Sans*** for the body text, Merriweather for the headings and Adobe's Source Code Pro for `code`.
+**Cleaver** *Dark* builds on [Cleaver Retro](http://github.com/jdan/cleaver-retro), uses ***Open Sans*** for the body text, Merriweather for the headings and Mozilla's Fira Mono for `code`.
 
 &mdash; [@svdb](https://www.twitter.com/svdb)
 
@@ -19,6 +19,10 @@ You can also fork or clone it to create your own version of it.
 ## File Structure
 
     . cleaver-dark
+    ├── fonts/
+    │   ├── fira/
+    │   ├── merriweather/
+    │   └── opensans/
     ├── cleaver-dark.png
     ├── layout.mustache
     ├── README.md
@@ -32,7 +36,7 @@ You can also fork or clone it to create your own version of it.
 * [Cleaver](https://github.com/jdan/cleaver) and [Cleaver Retro](http://github.com/jdan/cleaver-retro) by [Jordan Scales](https://github.com/jdan)
 * [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) by [Steve Matteson](https://en.wikipedia.org/wiki/Steve_Matteson)
 * [Merriweather](https://www.google.com/fonts/specimen/Merriweather) by [Eben Sorkin](http://sorkintype.com/)
-* [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) by [Paul Hunt](https://www.adobe.com/products/type/font-designers/paul-hunt.html)
+* [Fira Mono](https://mozilla.github.io/Fira/) by Mozilla
 * [Cleaver Dark](https://github.com/sjaakvandenberg/cleaver-dark) by [@svdb](https://www.twitter.com/svdb)
 
 ## License
