@@ -171,18 +171,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 100%;
   color: #fafafa;
-  background-color: #191919;
 }
 
-*:fullscreen {
-    background-color: #191919;
-}
-*:-webkit-full-screen {
-    background-color: #191919;
-}
-*:-moz-full-screen {
-    background-color: #191919;
-}
 
 /* Custom Slide Styles */
 #slide-1 {
@@ -216,6 +206,7 @@ img.badge {
   bottom: 0;
   left: 0;
   padding: 100px;
+  background-color: #191919;
 }
 
 .slide-content {
